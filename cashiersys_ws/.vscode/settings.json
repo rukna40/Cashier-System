@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ankur/cashiersys_ws/devel/lib/python3/dist-packages",
+        "/home/ankur/chatroom_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ankur/cashiersys_ws/devel/lib/python3/dist-packages",
+        "/home/ankur/chatroom_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

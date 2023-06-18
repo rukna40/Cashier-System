@@ -1,0 +1,2 @@
+cashier_sys
+-DCATKIN_DEVEL_PREFIX=/home/ankur/cashiersys_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ankur/cashiersys_ws/install -G Unix Makefiles

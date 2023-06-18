@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="cashier_sys" type="bill_pub.py" name="bill_pub" output = "screen" launch-prefix="gnome-terminal --command" ></node>
+  <node pkg="cashier_sys" type="bill_sub.py" name="bill_sub" output = "screen" launch-prefix="gnome-terminal --command" ></node>
+  <node pkg="cashier_sys" type="display.py" name="display" output = "screen" launch-prefix="gnome-terminal --command" ></node>
+</launch>
